@@ -21,3 +21,12 @@ Trying to make senese out of this language
     if 2>1
       puts "wow math works"
     end
+
+  # additional usefull things
+    if 1>2
+      puts "something is wrong, i can feel it"
+    elseif 2>1
+      puts "no meme i guess"
+    else
+      puts"nothing works, i wanna go home"
+    end
